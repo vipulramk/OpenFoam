@@ -1,2 +1,2 @@
 # OpenFoam
-Exceerises to learn OpenFOAM
+Excerises to learn OpenFOAM
